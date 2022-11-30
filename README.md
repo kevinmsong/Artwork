@@ -1,5 +1,5 @@
 # Artwork
 
-## Untitled
+- Untitled
 
 ![Artwork](AutoencoderArt.png)
